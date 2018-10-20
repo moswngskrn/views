@@ -1,0 +1,22 @@
+.box {
+    width: 500px;
+    margin: 200px 0;
+    text-align: center;
+}
+.box img{
+    width: 200px;
+    height: 200px;
+}
+
+.box a span img{
+    width: 20px;
+    height: 20px;
+}
+.box a span {
+    font-size: 20px;
+    color: blue;
+}
+.box a{
+    text-decoration: none;
+    display: block;
+}
